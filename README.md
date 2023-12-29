@@ -1,4 +1,4 @@
-# Job Management Backend
+# Job Search
 
 This is a Java Spring Boot project with MongoDB as the database. It has a search functinality which was implemented using MongoDB atlas search feature.
 
